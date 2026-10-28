@@ -1,0 +1,9 @@
+export const DEBOUNCE_MS = 400;
+export const ANTICIPATION_MS = 150;
+export const MIN_HOLD_MS = 800;
+export const MAX_SCALE = 3.5;
+export const MIN_SEGMENT_MS = 900;
+export const HYSTERESIS_MS = 1500;
+export const TYPING_GAP_MS = 1200;
+export const IDLE_HIDE_MS = 2500;
+export const CLICK_EFFECT_MS = 450;
